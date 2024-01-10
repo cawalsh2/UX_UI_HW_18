@@ -1,0 +1,26 @@
+/* My UX Skills*/
+.flexContainer{
+    display:flex;
+    justify-content: space-between;
+}
+.flexContainer > div {
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    border: 1px solid red;
+}
+.wireframing img {
+    width: 200px;
+    height: 200px;
+}
+.userExperience img {
+    width: 200px;
+    height: 200px;
+}
+.curiosity img {
+    width: 200px;
+    height: 200px;
+}
+
+/* My Work */
+
